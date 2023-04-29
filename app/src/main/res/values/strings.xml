@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">CanyonRanchApp</string>
+
+    <string name="home">HOME</string>
+    <string name="my_schedule">MY SCHEDULE</string>
+    <string name="explore">EXPLORE</string>
+    <string name="account">ACCOUNT</string>
+    <string name="view_your_schedule">VIEW YOUR SCHEDULE</string>
+    <!--<string name="good_morning">Good Morning,\nKatherine</string>-->
+    <string name="things_to_do">Things To Do</string>
+    <string name="ranch_schdule">Ranch \nSchedule</string>
+    <string name="string_letssignin">Let’s sign you in.</string>
+    <string name="string_emailaddress">EMAIL ADDRESS</string>
+    <string name="string_youremailaddress">Your email address</string>
+    <string name="string_phonenumber">PHONE NUMBER</string>
+    <string name="string_yourphonenumber">Your phone number</string>
+    <string name="string_signin">SIGN IN</string>
+    <string name="string_verificationcode">VERIFICATION CODE</string>
+    <string name="string_verify">VERIFY</string>
+    <string name="string_pleaseverify">Please verify your account.</string>
+    <string name="string_entersixdigitcode">Enter the 6-digit code that was sent to your phone.</string>
+    <string name="string_validphonenumber">"Please enter a valid phone number"</string>
+    <string name="string_validemailaddress">"Please enter a valid email address"</string>
+    <string name="string_validverificationcode">"Please enter a valid verification code"</string>
+    <string name="string_phone">PHONE</string>
+    <string name="string_email">EMAIL</string>
+    <string name="string_dob">DATE OF BIRTH</string>
+    <string name="string_tnc">TERMS &amp; CONDITIONS</string>
+    <string name="string_privacy">PRIVACY</string>
+    <string name="string_legal">LEGAL</string>
+    <string name="string_logout">LOG OUT</string>
+
+
+    <!--Greetings-->
+    <string name="good_morning">"Good Morning,"</string>
+    <string name="good_afternoon">"Good Afternoon,"</string>
+    <string name="good_evening">"Good Evening,"</string>
+    <string name="good_night">"Good Night,"</string>
+
+</resources>
